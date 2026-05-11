@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>개인정보처리방침 | junburi.github.io</title>
+<meta name="description" content="junburi.github.io 개인정보처리방침 — 광고 및 데이터 수집 정책 안내">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f8f5ef;--paper:#ffffff;--ink:#18140f;--ink-soft:#5c5044;--ink-faint:#a89880;--border:#e4ddd2;--accent:#c0392b;--surface:#f2ede4;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{background:var(--bg);color:var(--ink);font-family:'Noto Sans KR',sans-serif;line-height:1.8;}
+
+.masthead{background:var(--ink);color:#fff;text-align:center;padding:48px 24px 40px;}
+.masthead-tag{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:.3em;color:rgba(255,255,255,0.4);text-transform:uppercase;margin-bottom:14px;}
+.masthead h1{font-size:clamp(22px,5vw,36px);font-weight:700;margin-bottom:10px;}
+.masthead-sub{font-size:13px;color:rgba(255,255,255,0.5);font-weight:300;}
+
+.container{max-width:740px;margin:0 auto;padding:48px 24px 80px;}
+
+.section{background:var(--paper);border:1px solid var(--border);border-radius:16px;padding:32px;margin-bottom:20px;}
+.section h2{font-size:16px;font-weight:700;color:var(--ink);margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--border);}
+.section h3{font-size:14px;font-weight:600;color:var(--ink);margin:18px 0 8px;}
+.section p{font-size:13px;color:var(--ink-soft);line-height:1.9;margin-bottom:10px;}
+.section p:last-child{margin-bottom:0;}
+.section ul{font-size:13px;color:var(--ink-soft);line-height:1.9;padding-left:20px;margin-bottom:10px;}
+.section ul li{margin-bottom:4px;}
+
+.updated{font-family:'DM Mono',monospace;font-size:11px;color:var(--ink-faint);margin-bottom:28px;}
+
+.nav-back{display:inline-flex;align-items:center;gap:6px;text-decoration:none;color:var(--ink-soft);font-size:13px;margin-bottom:28px;padding:8px 14px;background:var(--paper);border:1px solid var(--border);border-radius:8px;transition:all .15s;}
+.nav-back:hover{background:var(--ink);color:#fff;border-color:var(--ink);}
+
+footer{text-align:center;padding:24px;font-size:11px;color:var(--ink-faint);border-top:1px solid var(--border);max-width:740px;margin:0 auto;}
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-tag">Legal · 법적 고지</div>
+  <h1>개인정보처리방침</h1>
+  <p class="masthead-sub">Privacy Policy</p>
+</div>
+
+<div class="container">
+
+  <a href="/" class="nav-back">← 홈으로 돌아가기</a>
+
+  <div class="updated">최종 업데이트: 2026년 4월</div>
+
+  <div class="section">
+    <h2>1. 개요</h2>
+    <p>본 개인정보처리방침은 <strong>junburi.github.io</strong> 및 하위 사이트(이하 "본 사이트")가 방문자의 정보를 어떻게 수집, 이용, 보호하는지를 설명합니다.</p>
+    <p>본 사이트를 이용함으로써 이 방침에 동의하는 것으로 간주됩니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>2. 수집하는 정보</h2>
+    <h3>직접 수집 정보</h3>
+    <p>본 사이트는 회원가입, 로그인, 개인정보 입력 기능이 없습니다. 방문자가 본 사이트에 직접 입력하는 건강 수치(혈압, 혈당, 키, 체중 등)는 서버에 저장되지 않으며 브라우저 내에서만 처리됩니다.</p>
+    <h3>자동 수집 정보</h3>
+    <p>본 사이트는 제3자 서비스(Google AdSense, Google Analytics 등)를 통해 다음 정보가 자동으로 수집될 수 있습니다:</p>
+    <ul>
+      <li>IP 주소 (익명 처리됨)</li>
+      <li>브라우저 종류 및 버전</li>
+      <li>방문 페이지 및 체류 시간</li>
+      <li>유입 경로 (검색어, 참조 URL)</li>
+      <li>기기 종류 (모바일/데스크톱)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. 쿠키 및 광고</h2>
+    <h3>Google AdSense</h3>
+    <p>본 사이트는 <strong>Google AdSense</strong>를 통해 광고를 게재합니다. Google은 쿠키를 사용하여 방문자의 이전 방문 기록을 기반으로 관심사에 맞는 광고를 표시할 수 있습니다.</p>
+    <p>Google의 광고 쿠키 사용을 거부하시려면 <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener">Google 광고 설정</a>에서 개인 맞춤 광고를 비활성화할 수 있습니다.</p>
+    <h3>제3자 광고 네트워크</h3>
+    <p>Google을 포함한 제3자 광고 업체는 쿠키를 사용하여 본 사이트 및 인터넷의 다른 사이트에 대한 방문자의 방문 정보를 기반으로 광고를 게재합니다. 방문자는 <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener">Network Advertising Initiative 옵트아웃 페이지</a>를 통해 개인 맞춤 광고 게재를 거부할 수 있습니다.</p>
+    <h3>쿠키 거부</h3>
+    <p>브라우저 설정에서 쿠키를 비활성화할 수 있으나, 일부 기능이 정상 작동하지 않을 수 있습니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>4. 정보의 이용 목적</h2>
+    <p>수집된 정보는 다음 목적으로 이용됩니다:</p>
+    <ul>
+      <li>사이트 이용 통계 분석 및 서비스 개선</li>
+      <li>맞춤형 광고 게재 (Google AdSense)</li>
+      <li>사이트 보안 유지 및 스팸 방지</li>
+    </ul>
+    <p>본 사이트는 수집된 개인정보를 제3자에게 판매하거나 임의로 제공하지 않습니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>5. 제3자 서비스 링크</h2>
+    <p>본 사이트는 외부 사이트로의 링크를 포함할 수 있습니다. 외부 사이트의 개인정보 보호 정책은 본 방침과 다를 수 있으며, 본 사이트는 외부 사이트의 정책에 대해 책임지지 않습니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>6. 아동의 개인정보</h2>
+    <p>본 사이트는 만 14세 미만 아동을 대상으로 개인정보를 의도적으로 수집하지 않습니다. 만 14세 미만 아동이 개인정보를 제공한 경우, 보호자는 당사에 연락하여 해당 정보의 삭제를 요청할 수 있습니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>7. 방침의 변경</h2>
+    <p>본 개인정보처리방침은 법령 변경 또는 서비스 변경에 따라 업데이트될 수 있습니다. 변경 시 본 페이지에 최종 업데이트 날짜를 표시합니다. 지속적인 사이트 이용은 변경된 방침에 동의하는 것으로 간주됩니다.</p>
+  </div>
+
+  <div class="section">
+    <h2>8. 문의</h2>
+    <p>본 개인정보처리방침에 관한 문의 사항은 GitHub 저장소(<strong>github.com/junburi</strong>)를 통해 연락해 주세요.</p>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 junburi.github.io · <a href="/" style="color:inherit">홈</a>
+</footer>
+
+</body>
+</html>
